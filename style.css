@@ -16,7 +16,7 @@ h1{
 }
 .half-width img{width: 100%;}
 .top-banner{
-    background-image: url("images/exp-bg.png.");
+    background-image: url("Images/exp-bg.png.");
 background-repeat: no-repeat;}
 section{
     height: 500px;
@@ -29,7 +29,7 @@ p{
     color:dimgray
 }
 .dream-area{
-background-image: url("images/dream-bg.png");
+background-image: url("Images/dream-bg.png");
 background-repeat: no-repeat;background-position: right;
 }
 .single-ex{
@@ -38,7 +38,7 @@ background-repeat: no-repeat;background-position: right;
     height: 80%;
     background-color: white;
 }
-.experience-area{background-image: url(images/exp-bg.png);
+.experience-area{background-image: url(Images/exp-bg.png);
 background-repeat: no-repeat;background-position: left;}
 #full-stack{border-left: 7px solid;
 border-image : linear-gradient(180deg, lightSalmon, tomato);
